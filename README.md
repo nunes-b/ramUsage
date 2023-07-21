@@ -6,7 +6,8 @@ Script em Node.js para monitoramento de memória RAM.
 
 ## Como usar
 
-Certifique-se de ter o Node.js instalado em seu sistema.
+Certifique-se de ter o Node.js instalado em seu sistema, no seu terminal execute o comando: 
+`` node -v`` 
 
 1. Clone este repositório:
 
