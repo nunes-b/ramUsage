@@ -18,7 +18,7 @@ cd RamUsage
 
 Instale as dependências:
 ```
-bash npm install
+ npm install
  ```
 Execute o script para monitorar a memória RAM:
 
